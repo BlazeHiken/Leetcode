@@ -71,3 +71,4 @@
 - [199. Binary Tree Right Side View - Medium](./Trees/q199.cpp)
 - [1448. Count Good Nodes in Binary Tree - Medium](./Trees/q1448.cpp)
 - [98. Validate Binary Search Tree - Medium](./Trees/q98.cpp)
+- [230. Kth Smallest Element in a BST - Medium](./Trees/q230.cpp)
