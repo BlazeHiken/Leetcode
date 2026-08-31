@@ -72,3 +72,4 @@
 - [1448. Count Good Nodes in Binary Tree - Medium](./Trees/q1448.cpp)
 - [98. Validate Binary Search Tree - Medium](./Trees/q98.cpp)
 - [230. Kth Smallest Element in a BST - Medium](./Trees/q230.cpp)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal - Medium](./Trees/q105.cpp)
