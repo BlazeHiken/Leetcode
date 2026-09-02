@@ -67,6 +67,7 @@
 - [100. Same Tree - Easy](./Trees/q100.cpp)
 - [572. Subtree of Another Tree - Easy](./Trees/q572.cpp)
 - [235. Lowest Common Ancestor of a Binary Search Tree - Medium](./Trees/q235.cpp)
+- [236. Lowest Common Ancestor of a Binary Tree - Medium](./Trees/q236.cpp)
 - [102. Binary Tree Level Order Traversal - Medium](./Trees/q102.cpp)
 - [199. Binary Tree Right Side View - Medium](./Trees/q199.cpp)
 - [1448. Count Good Nodes in Binary Tree - Medium](./Trees/q1448.cpp)
