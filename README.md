@@ -9,6 +9,7 @@
 - [238. Product of Array Except Self - Medium](./Arrays%26Hashing/q238.cpp)
 - [36. Valid Sudoku - Medium](./Arrays%26Hashing/q36.cpp)
 - [128. Longest Consecutive Sequence - Medium](./Arrays%26Hashing/q128.cpp)
+- [560. Subarray Sum Equals K - Medium](./Arrays%26Hashing/q560.cpp)
 
 ### Two Pointers
 
