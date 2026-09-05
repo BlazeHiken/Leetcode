@@ -51,6 +51,7 @@
 - [33. Search in Rotated Sorted Array - Medium](./BinarySearch/q33.cpp)
 - [981. Time Based Key-Value Store - Medium](./BinarySearch/q981.cpp)
 - [4. Median of Two Sorted Arrays - Hard](./BinarySearch/q4.cpp)
+- [1283. Find the Smallest Divisor Given a Threshold - Medium](./BinarySearch/q1283.cpp)
 
 ### Linked List
 
