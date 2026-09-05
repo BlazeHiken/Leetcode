@@ -31,6 +31,7 @@
 - [239. Sliding Window Maximum - Hard](./SlidingWindow/q239.cpp)
 - [209. Minimum Size Subarray Sum - Medium](./SlidingWindow/q209.cpp)
 - [1004. Max Consecutive Ones III - Medium](./SlidingWindow/q1004.cpp)
+- [713. Subarray Product Less Than K - Medium](./SlidingWindow/q713.cpp)
 
 ### Stack
 
