@@ -84,6 +84,13 @@
 - [105. Construct Binary Tree from Preorder and Inorder Traversal - Medium](./Trees/q105.cpp)
 - [2265. Count Nodes Equal to Average of Subtree - Medium](./Trees/q2265.cpp)
 
+### Heap / Priority Queue
+
+- [703. Kth Largest Element in a Stream - Easy](./HeapPriorityQueue/q703.cpp)
+- [1046. Last Stone Weight - Easy](./HeapPriorityQueue/q1046.cpp)
+- [973. K Closest Points to Origin - Medium](./HeapPriorityQueue/q973.cpp)
+- [215. Kth Largest Element in an Array - Medium](./HeapPriorityQueue/q215.cpp)
+
 ### Math & Geometry
 
 - [3870. Count Commas in Range - Easy](./Math%26Geometry/q3870.cpp)
