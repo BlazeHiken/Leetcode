@@ -90,6 +90,7 @@
 - [1046. Last Stone Weight - Easy](./HeapPriorityQueue/q1046.cpp)
 - [973. K Closest Points to Origin - Medium](./HeapPriorityQueue/q973.cpp)
 - [215. Kth Largest Element in an Array - Medium](./HeapPriorityQueue/q215.cpp)
+- [506. Relative Ranks - Easy](./HeapPriorityQueue/q506.cpp)
 
 ### Math & Geometry
 
