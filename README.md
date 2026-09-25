@@ -96,3 +96,4 @@
 
 - [3870. Count Commas in Range - Easy](./Math%26Geometry/q3870.cpp)
 - [3871. Count Commas in Range II - Medium](./Math%26Geometry/q3871.cpp)
+- [621. Task Scheduler - Medium](./Math%26Geometry/q621.cpp)
