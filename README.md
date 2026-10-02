@@ -87,6 +87,7 @@
 ### Backtracking
 
 - [78. Subsets - Medium](./Backtracking/q78.cpp)
+- [22. Generate Parentheses - Medium](./Backtracking/q22.cpp)
 
 ### Heap / Priority Queue
 
