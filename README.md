@@ -84,6 +84,10 @@
 - [105. Construct Binary Tree from Preorder and Inorder Traversal - Medium](./Trees/q105.cpp)
 - [2265. Count Nodes Equal to Average of Subtree - Medium](./Trees/q2265.cpp)
 
+### Backtracking
+
+- [78. Subsets - Medium](./Backtracking/q78.cpp)
+
 ### Heap / Priority Queue
 
 - [703. Kth Largest Element in a Stream - Easy](./HeapPriorityQueue/q703.cpp)
