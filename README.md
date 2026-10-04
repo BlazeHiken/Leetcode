@@ -13,6 +13,7 @@
 - [525. Contiguous Array - Medium](./Arrays%26Hashing/q525.cpp)
 - [974. Subarray Sums Divisible by K - Medium](./Arrays%26Hashing/q974.cpp)
 - [3483. Unique 3-Digit Even Numbers - Easy](./Arrays%26Hashing/q3483.cpp)
+- [1470. Shuffle the Array - Easy](./Arrays%26Hashing/q1470.cpp)
 
 ### Two Pointers
 
