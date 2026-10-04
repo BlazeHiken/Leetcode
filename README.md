@@ -33,6 +33,7 @@
 - [209. Minimum Size Subarray Sum - Medium](./SlidingWindow/q209.cpp)
 - [1004. Max Consecutive Ones III - Medium](./SlidingWindow/q1004.cpp)
 - [713. Subarray Product Less Than K - Medium](./SlidingWindow/q713.cpp)
+- [32. Longest Valid Parentheses - Hard](./SlidingWindow/q32.cpp)
 
 ### Stack
 
