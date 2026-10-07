@@ -94,6 +94,7 @@
 
 - [78. Subsets - Medium](./Backtracking/q78.cpp)
 - [22. Generate Parentheses - Medium](./Backtracking/q22.cpp)
+- [301. Remove Invalid Parentheses - Hard](./Backtracking/q301.cpp)
 
 ### Heap / Priority Queue
 
