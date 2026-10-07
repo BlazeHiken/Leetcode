@@ -99,6 +99,10 @@
 - [215. Kth Largest Element in an Array - Medium](./HeapPriorityQueue/q215.cpp)
 - [506. Relative Ranks - Easy](./HeapPriorityQueue/q506.cpp)
 
+### Greedy
+
+- [921. Minimum Add to Make Parentheses Valid - Medium](./Greedy/q921.cpp)
+
 ### Math & Geometry
 
 - [3870. Count Commas in Range - Easy](./Math%26Geometry/q3870.cpp)
