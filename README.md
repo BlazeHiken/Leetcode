@@ -15,6 +15,10 @@
 - [3483. Unique 3-Digit Even Numbers - Easy](./Arrays%26Hashing/q3483.cpp)
 - [1470. Shuffle the Array - Easy](./Arrays%26Hashing/q1470.cpp)
 
+### Strings
+
+- [1021. Remove Outermost Parentheses - Easy](./Strings/q1021.cpp)
+
 ### Two Pointers
 
 - [125. Valid Palindrome - Easy](./TwoPointers/q125.cpp)
