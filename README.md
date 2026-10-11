@@ -14,6 +14,7 @@
 - [974. Subarray Sums Divisible by K - Medium](./Arrays%26Hashing/q974.cpp)
 - [3483. Unique 3-Digit Even Numbers - Easy](./Arrays%26Hashing/q3483.cpp)
 - [1470. Shuffle the Array - Easy](./Arrays%26Hashing/q1470.cpp)
+- [2778. Sum of Squares of Special Elements - Easy](./Arrays%26Hashing/q2778.cpp)
 
 ### Strings
 
