@@ -124,3 +124,4 @@
 - [191. Number of 1 Bits - Easy](./BitManipulation/q191.cpp)
 - [136. Single Number - Easy](./BitManipulation/q136.cpp)
 - [338. Counting Bits - Easy](./BitManipulation/q338.cpp)
+- [2897. Apply Operations on Array to Maximize Sum of Squares - Hard](./BitManipulation/q2897.cpp)
