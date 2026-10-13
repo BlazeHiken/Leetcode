@@ -113,6 +113,7 @@
 
 - [921. Minimum Add to Make Parentheses Valid - Medium](./Greedy/q921.cpp)
 - [3727. Maximum Alternating Sum of Squares - Medium](./Greedy/q3727.cpp)
+- [2333. Minimum Sum of Squared Difference - Medium](./Greedy/q2333.cpp)
 
 ### Math & Geometry
 
