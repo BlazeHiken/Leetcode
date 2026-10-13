@@ -112,6 +112,7 @@
 ### Greedy
 
 - [921. Minimum Add to Make Parentheses Valid - Medium](./Greedy/q921.cpp)
+- [3727. Maximum Alternating Sum of Squares - Medium](./Greedy/q3727.cpp)
 
 ### Math & Geometry
 
