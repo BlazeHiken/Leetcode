@@ -115,6 +115,7 @@
 - [3727. Maximum Alternating Sum of Squares - Medium](./Greedy/q3727.cpp)
 - [2333. Minimum Sum of Squared Difference - Medium](./Greedy/q2333.cpp)
 - [1541. Minimum Insertions to Balance a Parentheses String - Medium](./Greedy/q1541.cpp)
+- [3723. Maximize Sum of Squares of Digits - Medium](./Greedy/q3723.cpp)
 
 ### Math & Geometry
 
