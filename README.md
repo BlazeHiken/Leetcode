@@ -21,6 +21,10 @@
 
 - [1021. Remove Outermost Parentheses - Easy](./Strings/q1021.cpp)
 
+### Sorting
+
+- [3551. Minimum Swaps to Sort by Digit Sum - Medium](./Strings/q3551.cpp)
+
 ### Two Pointers
 
 - [125. Valid Palindrome - Easy](./TwoPointers/q125.cpp)
